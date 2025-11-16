@@ -42,7 +42,7 @@ The "Today" skill helps you plan your workday by:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/today.git
+   git clone https://github.com/austinorth/today.git
    cd today
    ```
 
